@@ -1,5 +1,4 @@
 name: QED42 Demos
-markdown: redcarpet
 highlighter: true
 description: "This site contains the list of demos created @ QED42"
 url: "qed42.github.io"
