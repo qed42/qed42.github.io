@@ -1,5 +1,5 @@
 name: QED42 Demos
-highlighter: true
+highlighter: rouge
 description: "This site contains the list of demos created @ QED42"
 url: "qed42.github.io"
 permalink: /posts/:title
