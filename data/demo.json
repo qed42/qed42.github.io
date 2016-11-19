@@ -1,0 +1,31 @@
+[{
+    "name": "A To Do Application using polymer",
+    "date": "Feb 28, 2016",
+    "link": "https://qed42.github.io/polymertodo",
+    "image": "/data/images/demo/todo.png",
+    "desc": "This is a progressive web application made using polymer and firebase. We have used polymer to create custom elements and used polymer element <firebase-element> to connect with the database in firebase. This application demos both the features of polymer and firebase showing we have endless possibities with these two techs. "
+}, {
+    "name": "Service Worker Demo",
+    "date": "Feb 28, 2016",
+    "link": "https://qed42.github.io/wikimob",
+    "image": "/data/images/demo/wikimob.png",
+    "desc": "This is a tryout for using service workers in our application showcasing the offline functionality. Using service workers we can actively respond to the users activity even the internet is slow or offline. One of the most desired functionality for web apps."
+}, {
+    "name": "A polymer element <polymer-bg>",
+    "date": "Oct 08, 2016",
+    "link": "https://qed42.github.io/polymer-bg",
+    "image": "/data/images/demo/polymer-bg.png",
+    "desc": "polymer-bg A polymer element to evenly distribute the photos across rows or columns, making the most of the space provided."
+}, {
+    "name": "<polymer-zoomove> Element",
+    "date": "Oct 12, 2016",
+    "link": "https://qed42.github.io/polymer-zoomove",
+    "image": "/data/images/demo/polymer-zoomove.gif",
+    "desc": "<polymer-zoomove> A polymer element to use zoomove jquery plugin"
+}, {
+    "name": "<polymer-meter> Element",
+    "date": "Nov 13, 2016",
+    "link": "https://qed42.github.io/polymer-meter",
+    "image": "/data/images/demo/polymer-meter.gif",
+    "desc": "<polymer-meter> This is a polymer element to indicate the amount of article still left for reading."
+}]

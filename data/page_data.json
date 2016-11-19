@@ -1,0 +1,31 @@
+[{
+    "header": {
+        "toolbar_icon_picture": "/data/images/logo.png",
+        "drawer_icon_picture": "/data/images/logo.png"
+    },
+    "menu":{
+      "home": "HOME",
+      "demos": "DEMOS"
+    },
+    "movil-menu":{
+      "home": "Home",
+      "demos": "Demos"
+    },
+    "details": {
+        "title": "Front End Demos",
+        "subtitle": "A Place to showcase our FrontEnd Skills",
+        "description": "",
+        "site_cover_picture_desktop": "/data/images/fc.jpg",
+        "site_cover_picture_mobile": "/data/images/fc.jpg"
+    },
+    "demo": {
+      "title":"Demos"
+    },
+    "footer": {
+        "organization_image": "/data/images/logo.png",
+        "organization_url": "https://www.qed42.com",
+        "organization_name": "Qed42 Engineering Pvt. Ltd.",
+        "author_name": "Saket Kumar",
+        "author_url": "https://saki007ster.github.io"
+    }
+}]
