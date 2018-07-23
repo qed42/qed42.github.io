@@ -28,4 +28,10 @@
     "link": "https://qed42.github.io/polymer-meter",
     "image": "/data/images/demo/polymer-meter.gif",
     "desc": "<polymer-meter> This is a polymer element to indicate the amount of article still left for reading."
+}, {
+    "name": "React Redux Reorderable Grid",
+    "date": "Jul 23, 2018",
+    "link": "https://qed42.github.io/react-redux-reorderable-grid/",
+    "image": "/data/images/demo/reorderable.png",
+    "desc": "This is a simple demo of react - redux to create a reorderable grid."
 }]
